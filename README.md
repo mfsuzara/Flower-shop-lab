@@ -61,7 +61,7 @@ I sell single carnations on my college campus and log every person I ask, whethe
 
 - Nov 16: started logging every person asked, including "no"s.
 - Nov 17: record time, weather and temperature once per selling day and copy them to every row that day.
-- Nov 21: keeping carnations, $5 and 20 flowers per day so days can be compared fairly.
+- Nov 21: keeping carnations, $5 and 10 flowers per day so days can be compared fairly.
 
 ## Next steps
 
